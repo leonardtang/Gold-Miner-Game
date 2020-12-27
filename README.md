@@ -1,3 +1,13 @@
+<style>
+figcaption {
+  background-color: white;
+  color: black;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+</style>
+
 # Welcome to Gold Miner!
 
 This is a pure-Java implementation of Gold Miner, the [classic internet game](https://www.crazygames.com/game/gold-miner). 
