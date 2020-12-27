@@ -18,3 +18,12 @@ There are also power-ups you can purchase with the points you have collected at 
   <img src="./Power-Ups.png" alt="Power Up Page" width="700"/>
 </figure>
 
+***
+
+To play the game for yourself, clone the repository and run the following commands:
+
+```
+cd src
+javac Driver.java
+java Driver
+```
